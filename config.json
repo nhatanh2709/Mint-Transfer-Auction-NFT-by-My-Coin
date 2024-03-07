@@ -1,0 +1,13 @@
+{
+    "dev": {},
+    "bsctest": {
+        "Floppy" : "0x8305878EC18fA6102a059D38E3ED884191cb0D20",
+        "Vault" : "0x33BC8F9Ce11Bcd1943f7513b8bB0af1A279abCf7",
+        "USDT" : "0x193182B65660C13Be439D025D54D1Be3E77C2EaD",
+        "FLPCrowndsale" : "0xC62f1755B21bbeF567e34db100F3245Ce65F10e5",
+        "Hero" : "0x6131d36258365c7B804865ce577Be9D9f3449067",
+        "HeroMarketplace": "0xf563DC864E09e37b24491aaD5668730E9025D850",
+        "Auction" : "0x51c697Ceb873E64599D4048480B512a315dDADfD"
+    },
+    "main":{}
+}
